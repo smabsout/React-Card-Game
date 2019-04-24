@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Atlanta Hawks",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/1/16/Atlanta_Hawks_-_Flag.jpg/revision/latest?cb=20181221204838"
+  },
+  {
+    "id": 2,
+    "name": "Boston Celtics",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/b/bf/Boston_Celtics_Logo.png/revision/latest?cb=20120119223258"
+  },
+  {
+    "id": 3,
+    "name": "Chicago Bulls",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/6/6a/Chicago_Bulls_-_Flag.jpg/revision/latest?cb=20181221204602"
+  },
+  {
+    "id": 4,
+    "name": "Denver Nuggets",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/0/07/Denver_Nuggets_Logo.png/revision/latest?cb=20120119223259"
+  },
+  {
+    "id": 5,
+    "name": "Detroit Pistons",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/c/c7/Detroit_Pistons_Logo.png/revision/latest?cb=20120119223259"
+  },
+  {
+    "id": 6,
+    "name": "New Jersey Nets",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/4/45/New_Jersey_Nets_Logo.png/revision/latest?cb=20120119223413"
+  },
+  {
+    "id": 7,
+    "name": "Oklahoma City Thunder",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/7/74/Oklahoma_City_Thunder_Logo.png/revision/latest?cb=20120119223616"
+  },
+  {
+    "id": 8,
+    "name": "Orlando Magic",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/6/6e/Magic_logo.png/revision/latest?cb=20161212035820"
+  },
+  {
+    "id": 9,
+    "name": "Houston Rockets",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/c/cc/Houston_Rockets_Logo.png/revision/latest?cb=20120119223300"
+  },
+  {
+    "id": 10,
+    "name": "Indiana Pacers",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/0/05/Indiana_Pacers_Logo.png/revision/latest?cb=20120119223412"
+  },
+  {
+    "id": 11,
+    "name": "Los Angeles Lakers",
+    "image": "https://vignette.wikia.nocookie.net/nba2k/images/3/37/Los_Angeles_Lakers_Logo.png/revision/latest?cb=20120119223412"
+  }
+]
